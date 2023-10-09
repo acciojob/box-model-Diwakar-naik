@@ -4,8 +4,10 @@ body,div{
 	padding:0px;
 }
 .container{
+	 background-color:rgb(255, 0, 0)
 	display:flex;
 	gap:10px
+
 		
 	width:50px;
 	text-align:center;
